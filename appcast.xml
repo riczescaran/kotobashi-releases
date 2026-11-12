@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Kotobashi</title>
+    <link>https://github.com/riczescaran/kotobashi-releases</link>
+    <description>Kotobashi updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.27.0</title>
+      <pubDate>Thu, 12 Nov 2026 09:55:53 +0000</pubDate>
+      <sparkle:version>1.27.0</sparkle:version>
+      <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+## [1.27.0](https://github.com/riczescaran/kotobashi/compare/v1.26.0...v1.27.0) (2026-11-12)
+
+
+### Features
+
+* in-app updates with Sparkle ([#36](https://github.com/riczescaran/kotobashi/issues/36)) ([e1f895e](https://github.com/riczescaran/kotobashi/commit/e1f895e1e0b5fd73944e14cf1ca2b553b0ff4134))
+* open the hotkey popup next to the selected text ([#35](https://github.com/riczescaran/kotobashi/issues/35)) ([7ea0dc0](https://github.com/riczescaran/kotobashi/commit/7ea0dc0143b07d5b87aa930d1c769afe1e59c39f))
+]]></description>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.27.0/Kotobashi-1.27.0.dmg" length="5152411" type="application/octet-stream" sparkle:edSignature="mP6+Kg7/ClAuNRDD6WrG0XOmr43OcuJTVyse5wdes81wZNJNlsAaNhUKOCAY+Lf9G81TNFABm9RIS9JgKojmAQ=="/>
+    </item>
+  </channel>
+</rss>
