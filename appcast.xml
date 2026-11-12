@@ -6,25 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.28.0</title>
-      <pubDate>Thu, 12 Nov 2026 12:23:13 +0000</pubDate>
-      <sparkle:version>1.28.0</sparkle:version>
-      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+      <title>Version 1.29.0</title>
+      <pubDate>Thu, 12 Nov 2026 13:09:24 +0000</pubDate>
+      <sparkle:version>1.29.0</sparkle:version>
+      <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## [1.28.0](https://github.com/riczescaran/kotobashi/compare/v1.27.0...v1.28.0) (2026-11-12)
+## 1.29.0 (2026-11-12)
 
 
 ### Features
 
-* serve the update feed from the releases repo's main branch
-
-
-### Bug Fixes
-
-* bring Sparkle's alerts to the front
+* optional menu bar icon
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.28.0/Kotobashi-1.28.0.dmg" length="5152799" type="application/octet-stream" sparkle:edSignature="pFxTVbAEJw0/UXhrKS7C8uyaH2CE/qZDXnWlBcTYXWAql+IYMGO/1Sk8hWE9R6YP5TwTtqOrTcnvY3joWoVABQ=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.29.0/Kotobashi-1.29.0.dmg" length="5160766" type="application/octet-stream" sparkle:edSignature="TE3N5DA4hQz1VkVZxaigtLRqPS97Eb9ZhB3MwZb/P09MWGrza7LxNTre5/eLcnmODr9tLkNxvmf29szqj5MBBQ=="/>
     </item>
   </channel>
 </rss>
