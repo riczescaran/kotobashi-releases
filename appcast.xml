@@ -6,20 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.30.0</title>
-      <pubDate>Thu, 12 Nov 2026 18:08:33 +0000</pubDate>
-      <sparkle:version>1.30.0</sparkle:version>
-      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <title>Version 1.31.0</title>
+      <pubDate>Thu, 12 Nov 2026 19:17:46 +0000</pubDate>
+      <sparkle:version>1.31.0</sparkle:version>
+      <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 1.30.0 (2026-11-12)
+## 1.31.0 (2026-11-12)
 
 
-### Bug Fixes
+### Features
 
-* stop cut-off answers, cancel on close, and harden the CLI runner
+* show remaining subscription usage for Claude and Codex
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.30.0/Kotobashi-1.30.0.dmg" length="5243280" type="application/octet-stream" sparkle:edSignature="3U2H9E9Jh/FdMMQPvnw8U2LHsjV9EosvzTRN1gJmc1p9CJ5CpjZhS/UW1JN2T3HBz9C9bs5oRyWArVNiWLUhDA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.31.0/Kotobashi-1.31.0.dmg" length="5329619" type="application/octet-stream" sparkle:edSignature="aDAOOY7iuqwuNEkJZA5BG+1E6mmShnlqnZ2Sg4vml6ebmRShelLfEXa+ZCux+kPpRj3cycup+hjiJTn7i8YKDg=="/>
     </item>
   </channel>
 </rss>
