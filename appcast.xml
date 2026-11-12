@@ -6,20 +6,21 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.29.0</title>
-      <pubDate>Thu, 12 Nov 2026 13:09:24 +0000</pubDate>
-      <sparkle:version>1.29.0</sparkle:version>
-      <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+      <title>Version 1.29.1</title>
+      <pubDate>Thu, 12 Nov 2026 17:14:22 +0000</pubDate>
+      <sparkle:version>1.29.1</sparkle:version>
+      <sparkle:shortVersionString>1.29.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 1.29.0 (2026-11-12)
+## 1.29.1 (2026-11-12)
 
 
-### Features
+### Bug Fixes
 
-* optional menu bar icon
+* keep the clipboard safe when reading the selection and on Replace
+* Live Translation stays off after Stop and keeps each transcript
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.29.0/Kotobashi-1.29.0.dmg" length="5160766" type="application/octet-stream" sparkle:edSignature="TE3N5DA4hQz1VkVZxaigtLRqPS97Eb9ZhB3MwZb/P09MWGrza7LxNTre5/eLcnmODr9tLkNxvmf29szqj5MBBQ=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.29.1/Kotobashi-1.29.1.dmg" length="5214794" type="application/octet-stream" sparkle:edSignature="RdbVN2ogPn+B2SWDXMuANsjLbQZNw5rBqxmnJgO0BM7vu4UsyxGeZIjWS9pCcJNhPuRB3e/2Y7eOATnKCRnnBg=="/>
     </item>
   </channel>
 </rss>
