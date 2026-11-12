@@ -17,12 +17,12 @@
 
 ### Features
 
-* serve the update feed from the releases repo's main branch ([#38](https://github.com/riczescaran/kotobashi/issues/38)) ([b712bd4](https://github.com/riczescaran/kotobashi/commit/b712bd4904eff98e0597f79562b4ec67563e000a))
+* serve the update feed from the releases repo's main branch
 
 
 ### Bug Fixes
 
-* bring Sparkle's alerts to the front ([#40](https://github.com/riczescaran/kotobashi/issues/40)) ([2f66a4f](https://github.com/riczescaran/kotobashi/commit/2f66a4fe914c28861fdd321cd8bd0ed087992edd))
+* bring Sparkle's alerts to the front
 ]]></description>
       <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.28.0/Kotobashi-1.28.0.dmg" length="5152799" type="application/octet-stream" sparkle:edSignature="pFxTVbAEJw0/UXhrKS7C8uyaH2CE/qZDXnWlBcTYXWAql+IYMGO/1Sk8hWE9R6YP5TwTtqOrTcnvY3joWoVABQ=="/>
     </item>
