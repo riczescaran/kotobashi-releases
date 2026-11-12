@@ -6,21 +6,25 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.27.0</title>
-      <pubDate>Thu, 12 Nov 2026 09:55:53 +0000</pubDate>
-      <sparkle:version>1.27.0</sparkle:version>
-      <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+      <title>Version 1.28.0</title>
+      <pubDate>Thu, 12 Nov 2026 12:23:13 +0000</pubDate>
+      <sparkle:version>1.28.0</sparkle:version>
+      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## [1.27.0](https://github.com/riczescaran/kotobashi/compare/v1.26.0...v1.27.0) (2026-11-12)
+## [1.28.0](https://github.com/riczescaran/kotobashi/compare/v1.27.0...v1.28.0) (2026-11-12)
 
 
 ### Features
 
-* in-app updates with Sparkle ([#36](https://github.com/riczescaran/kotobashi/issues/36)) ([e1f895e](https://github.com/riczescaran/kotobashi/commit/e1f895e1e0b5fd73944e14cf1ca2b553b0ff4134))
-* open the hotkey popup next to the selected text ([#35](https://github.com/riczescaran/kotobashi/issues/35)) ([7ea0dc0](https://github.com/riczescaran/kotobashi/commit/7ea0dc0143b07d5b87aa930d1c769afe1e59c39f))
+* serve the update feed from the releases repo's main branch ([#38](https://github.com/riczescaran/kotobashi/issues/38)) ([b712bd4](https://github.com/riczescaran/kotobashi/commit/b712bd4904eff98e0597f79562b4ec67563e000a))
+
+
+### Bug Fixes
+
+* bring Sparkle's alerts to the front ([#40](https://github.com/riczescaran/kotobashi/issues/40)) ([2f66a4f](https://github.com/riczescaran/kotobashi/commit/2f66a4fe914c28861fdd321cd8bd0ed087992edd))
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.27.0/Kotobashi-1.27.0.dmg" length="5152411" type="application/octet-stream" sparkle:edSignature="mP6+Kg7/ClAuNRDD6WrG0XOmr43OcuJTVyse5wdes81wZNJNlsAaNhUKOCAY+Lf9G81TNFABm9RIS9JgKojmAQ=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.28.0/Kotobashi-1.28.0.dmg" length="5152799" type="application/octet-stream" sparkle:edSignature="pFxTVbAEJw0/UXhrKS7C8uyaH2CE/qZDXnWlBcTYXWAql+IYMGO/1Sk8hWE9R6YP5TwTtqOrTcnvY3joWoVABQ=="/>
     </item>
   </channel>
 </rss>
