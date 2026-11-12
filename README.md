@@ -1,10 +1,12 @@
 # Kotobashi
 
-<p align="center"><img src="banner.png" alt="Kotobashi: a bridge between languages that lives in your Mac's menu bar" width="640"></p>
+<p align="center"><img src="banner.png" alt="Kotobashi: a simple companion app for working across languages" width="640"></p>
 
 <p align="center"><a href="https://github.com/riczescaran/kotobashi-releases/releases/latest">Download the latest release</a></p>
 
-Kotobashi (言葉橋, "word bridge") is a macOS menu-bar app to translate, proofread, and rewrite text in any app, read text from the screen, and follow conversations with live translated captions.
+Kotobashi is a simple companion app for working across languages on your Mac. It translates, proofreads, and rewrites text in any app, reads text from the screen, and follows conversations with live translated captions.
+
+*About the name:* *kotoba* (言葉) means "words" and *hashi* (橋) means "bridge" in Japanese, so Kotobashi is a bridge for your words.
 
 This repository only hosts the release downloads and the in-app update feed. The source code is kept private.
 
