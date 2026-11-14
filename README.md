@@ -20,7 +20,7 @@ This repository only hosts the release downloads and the in-app update feed. The
 - **Work with the result:** rewrites highlight what changed, *Check meaning* translates a translation back so you can see whether the meaning survived, *Replace* pastes the result over your selection, and line breaks and indentation are kept.
 - **Translate from the screen** (⌃⌥O): drag a box over an image, a video or a PDF, and Kotobashi reads the text on your Mac and translates it.
 - **Live translated captions** (⌃⌥L) for your microphone, one app (for example a Slack huddle) or both, in a floating bar, with a transcript you can copy or save. Speech recognition and translation run on your Mac.
-- **Choose your AI:** your Claude or ChatGPT subscription (through the Claude Code or Codex command-line tools), an Anthropic or OpenAI API key, or Apple's on-device translation and Apple Intelligence. If the chosen provider fails, Kotobashi can fall back to Apple's on-device options (on by default) and tells you why.
+- **Choose your AI:** your Claude or ChatGPT subscription (through the Claude Code or Codex command-line tools), an Anthropic, OpenAI or OpenRouter API key (OpenRouter gives you models from many providers with one key), or Apple's on-device translation and Apple Intelligence. If the chosen provider fails, Kotobashi can fall back to Apple's on-device options (on by default) and tells you why.
 - **History** of your translations and rewrites, with search, favorites and CSV export.
 - **Stays out of your way:** show it in the menu bar, the Dock, or both.
 
