@@ -6,20 +6,22 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.32.0</title>
-      <pubDate>Sat, 14 Nov 2026 18:34:34 +0000</pubDate>
-      <sparkle:version>1.32.0</sparkle:version>
-      <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
+      <title>Version 1.33.0</title>
+      <pubDate>Sat, 14 Nov 2026 21:04:48 +0000</pubDate>
+      <sparkle:version>1.33.0</sparkle:version>
+      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 1.32.0 (2026-11-14)
+## 1.33.0 (2026-11-14)
 
 
 ### Features
 
-* add OpenRouter as an AI provider
+* add a Health Check window for permissions and providers
+* delete old History items automatically
+* show recently used target languages in the language menu
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.32.0/Kotobashi-1.32.0.dmg" length="5366095" type="application/octet-stream" sparkle:edSignature="+HJy9hMEQIRYwgz2iX83aU//KzfgeXI2GIFz9d3cJpNMc5WICgi4Kp3iPngkvn1l4OV+cqsCwcwA/Ipt0M/9BQ=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.33.0/Kotobashi-1.33.0.dmg" length="5550111" type="application/octet-stream" sparkle:edSignature="7WHCmzfn0Mhgd4E2KsOzTGpBo9/AgiKpozyfj3TlDg4j9ObpES0xYvc+1U4w2l4uR1Lnx4ZGzvn+EWyPIy23DA=="/>
     </item>
   </channel>
 </rss>
