@@ -6,22 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.33.0</title>
-      <pubDate>Sat, 14 Nov 2026 21:04:48 +0000</pubDate>
-      <sparkle:version>1.33.0</sparkle:version>
-      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+      <title>Version 1.34.0</title>
+      <pubDate>Sat, 14 Nov 2026 22:09:25 +0000</pubDate>
+      <sparkle:version>1.34.0</sparkle:version>
+      <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 1.33.0 (2026-11-14)
+## 1.34.0 (2026-11-14)
 
 
 ### Features
 
-* add a Health Check window for permissions and providers
-* delete old History items automatically
-* show recently used target languages in the language menu
+* compare results from two providers side by side
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.33.0/Kotobashi-1.33.0.dmg" length="5550111" type="application/octet-stream" sparkle:edSignature="7WHCmzfn0Mhgd4E2KsOzTGpBo9/AgiKpozyfj3TlDg4j9ObpES0xYvc+1U4w2l4uR1Lnx4ZGzvn+EWyPIy23DA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.34.0/Kotobashi-1.34.0.dmg" length="5705004" type="application/octet-stream" sparkle:edSignature="afxXt9hKvNJRseSgDeMlS5E3iAHRGtf0idjpvxRSXqcbGj/ZZ2sVACLVAqmcWmbf+oPhjNryM4CzfwGA1/mOBw=="/>
     </item>
   </channel>
 </rss>
