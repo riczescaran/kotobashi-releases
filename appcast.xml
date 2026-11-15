@@ -6,20 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.35.0</title>
-      <pubDate>Sun, 15 Nov 2026 09:24:58 +0000</pubDate>
-      <sparkle:version>1.35.0</sparkle:version>
-      <sparkle:shortVersionString>1.35.0</sparkle:shortVersionString>
+      <title>Version 1.35.1</title>
+      <pubDate>Sun, 15 Nov 2026 11:28:29 +0000</pubDate>
+      <sparkle:version>1.35.1</sparkle:version>
+      <sparkle:shortVersionString>1.35.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 1.35.0 (2026-11-15)
+## 1.35.1 (2026-11-15)
 
 
-### Features
+### Bug Fixes
 
-* keep bold, italics, links and lists when replacing text
+* improve ChatGPT's internal instructions
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.35.0/Kotobashi-1.35.0.dmg" length="5856807" type="application/octet-stream" sparkle:edSignature="IGxuZZ0/zBnyccDd0YVLbFCepmY3lAjIt6nt0amGoiKhCy5CePPqJBBh5Glr3MPVVrzJORXUyn1ruortJVtuCg=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v1.35.1/Kotobashi-1.35.1.dmg" length="5859069" type="application/octet-stream" sparkle:edSignature="akxiLfJXyEgjD29NITPn30/Vv0B6waunPbt9IT4H65wlUFRzziDi9/CyCWW1ZFwa9rAJt9QbXovPyxm5QDb1AA=="/>
     </item>
   </channel>
 </rss>
