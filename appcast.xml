@@ -6,20 +6,27 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.2.0</title>
-      <pubDate>Tue, 17 Nov 2026 05:30:24 +0000</pubDate>
-      <sparkle:version>2.2.0</sparkle:version>
-      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <title>Version 2.3.0</title>
+      <pubDate>Tue, 17 Nov 2026 20:31:32 +0000</pubDate>
+      <sparkle:version>2.3.0</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.2.0 (2026-11-17)
+## 2.3.0 (2026-11-17)
 
 
 ### Features
 
-* let the selection bubble grow to fit long text
+* cleaner result bubble with one-click Compare
+* redesigned main window that stays open like a normal window
+* warn when a shortcut is already used by macOS or another app
+
+
+### Bug Fixes
+
+* use ⌃⌥⌘ plus a letter as the default shortcuts
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.2.0/Kotobashi-2.2.0.dmg" length="6745234" type="application/octet-stream" sparkle:edSignature="m7DbV109VFSUXNZmRgF84ZHV11Mf2445DzOUluagao7IzVTxU7AZIN4LMdeEaNobAUmzMLXtdWZcSkblvSdcAw=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.3.0/Kotobashi-2.3.0.dmg" length="7000683" type="application/octet-stream" sparkle:edSignature="ld07qnP9NJe1mXnhCxFA04j7A/QX4i2jLCyXtOBJ9IAH56wN8aTYjF6i/EIJP9KPzASS/v6sjN0xRYT0+7VXAw=="/>
     </item>
   </channel>
 </rss>
