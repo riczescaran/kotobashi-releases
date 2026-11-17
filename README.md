@@ -14,7 +14,7 @@ This repository only hosts the release downloads and the in-app update feed. The
 
 ## Features
 
-- **Translate and rewrite in any app.** Select text and press a shortcut (⌃⌥T to translate, ⌃⌥R to rewrite; both can be changed), click the small button that appears next to your selection, or right-click → Services.
+- **Translate and rewrite in any app.** Select text and press a shortcut (⌃⌥T to translate, ⌃⌥R to rewrite; both can be changed, and Settings warns you when a shortcut is already used by macOS or another app), click the small button that appears next to your selection, or right-click → Services.
 - **Translate** detects the language for you. English goes to Japanese and everything else to English by default; you can change both languages and switch the direction.
 - **Rewrite** text in its own language with a style: Proofread (fixes spelling, grammar, punctuation and clearly wrong words, and keeps your wording), Natural, Professional, Concise, Friendly, or your own styles.
 - **Work with the result:** rewrites highlight what changed, *Check meaning* translates a translation back so you can see whether the meaning survived, *Replace* pastes the result over your selection, and line breaks and indentation are kept.
