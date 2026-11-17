@@ -6,21 +6,22 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.0.0</title>
-      <pubDate>Mon, 16 Nov 2026 05:40:50 +0000</pubDate>
-      <sparkle:version>2.0.0</sparkle:version>
-      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <title>Version 2.1.0</title>
+      <pubDate>Tue, 17 Nov 2026 02:38:43 +0000</pubDate>
+      <sparkle:version>2.1.0</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.0.0 (2026-11-16)
+## 2.1.0 (2026-11-17)
 
 
-### Features
+### Bug Fixes
 
-* translate whole documents and files
-* refreshed look and feel across the app
+* clear shadows around floating windows
+* clearer, more readable text across the app
+* tidier Settings rows and shortcut keys
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.0.0/Kotobashi-2.0.0.dmg" length="6583877" type="application/octet-stream" sparkle:edSignature="iee42CsgAVfJoHcAq56Uq2pVxixyz0p7w5nG4CNGIhpI6a/kQLhnOBTabJnDgOz/6a+bT783rrARLpH3P3IUAg=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.1.0/Kotobashi-2.1.0.dmg" length="6747133" type="application/octet-stream" sparkle:edSignature="KxsqAhtfny5DzfxwWwNNtii9l3nF4jIJBQt3W/5RjWees+CVAIF9CWPsZKaU7fB4IFerEx1+zxtNUjAorQD6CA=="/>
     </item>
   </channel>
 </rss>
