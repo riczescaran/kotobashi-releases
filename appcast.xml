@@ -6,22 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.1.0</title>
-      <pubDate>Tue, 17 Nov 2026 02:38:43 +0000</pubDate>
-      <sparkle:version>2.1.0</sparkle:version>
-      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <title>Version 2.2.0</title>
+      <pubDate>Tue, 17 Nov 2026 05:30:24 +0000</pubDate>
+      <sparkle:version>2.2.0</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.1.0 (2026-11-17)
+## 2.2.0 (2026-11-17)
 
 
-### Bug Fixes
+### Features
 
-* clear shadows around floating windows
-* clearer, more readable text across the app
-* tidier Settings rows and shortcut keys
+* let the selection bubble grow to fit long text
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.1.0/Kotobashi-2.1.0.dmg" length="6747133" type="application/octet-stream" sparkle:edSignature="KxsqAhtfny5DzfxwWwNNtii9l3nF4jIJBQt3W/5RjWees+CVAIF9CWPsZKaU7fB4IFerEx1+zxtNUjAorQD6CA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.2.0/Kotobashi-2.2.0.dmg" length="6745234" type="application/octet-stream" sparkle:edSignature="m7DbV109VFSUXNZmRgF84ZHV11Mf2445DzOUluagao7IzVTxU7AZIN4LMdeEaNobAUmzMLXtdWZcSkblvSdcAw=="/>
     </item>
   </channel>
 </rss>
