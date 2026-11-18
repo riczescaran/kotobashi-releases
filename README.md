@@ -18,6 +18,7 @@ This repository only hosts the release downloads and the in-app update feed. The
 - **Translate** detects the language for you. English goes to Japanese and everything else to English by default; you can change both languages and switch the direction.
 - **Rewrite** text in its own language with a style: Proofread (fixes spelling, grammar, punctuation and clearly wrong words, and keeps your wording), Natural, Professional, Concise, Friendly, or your own styles.
 - **Work with the result:** rewrites can highlight what changed (the eye button), *Check meaning* translates a translation back so you can see whether the meaning survived, *Replace* pastes the result over your selection, and line breaks and indentation are kept.
+- **Choose another wording:** click a word or phrase in a result to see other ways to say it, or rephrase the whole sentence; in the selection bubble, right-click the result → *Alternatives…*. Needs an AI provider (not Apple on-device).
 - **Translate whole documents and files** (new in 2.0): `.txt`, `.md`, `.rtf` and `.docx` files, saved next to the original. See [Translate files](#translate-files) below.
 - **Translate from the screen** (⌃⌥⌘O): drag a box over an image, a video or a PDF, and Kotobashi reads the text on your Mac and translates it.
 - **Live translated captions** (⌃⌥⌘L) for your microphone, one app (for example a Slack huddle) or both, in a floating bar, with a transcript you can copy or save. Speech recognition and translation run on your Mac.
