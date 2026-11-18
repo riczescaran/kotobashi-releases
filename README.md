@@ -8,11 +8,26 @@
 
 Kotobashi is a simple companion app for working across languages on your Mac. It translates, proofreads, and rewrites text in any app, translates whole documents and files, reads text from the screen, and follows conversations with live translated captions.
 
+<p align="center"><img src="docs/overview-hero.jpg" alt="Select text in any app, press the bubble, and get a rewrite or a Japanese to English translation with a Replace button" width="100%"></p>
+
 *About the name:* *kotoba* (言葉) means "words" and *hashi* (橋) means "bridge" in Japanese, so Kotobashi is a bridge for your words.
 
 This repository only hosts the release downloads and the in-app update feed. The source code is kept private.
 
 ## Features
+
+<p align="center"><img src="docs/result-bubbles.jpg" alt="Result bubbles: an English rewrite and a Japanese to English translation" width="100%"></p>
+
+<p align="center"><img src="docs/feature-grid.jpg" alt="Choose another wording, translate whole files, live translated captions and choosing your AI provider" width="100%"></p>
+
+<details>
+<summary>More screenshots</summary>
+
+<p align="center"><img src="docs/main-window.jpg" alt="The Kotobashi main window" width="70%"></p>
+<p align="center"><img src="docs/demo-select-translate.gif" alt="Select text, press the bubble, get the translation" width="70%"></p>
+<p align="center"><img src="docs/demo-choose-wording.gif" alt="Click a phrase in a result and choose another wording" width="70%"></p>
+
+</details>
 
 - **Translate and rewrite in any app.** Select text and press a shortcut (⌃⌥⌘T to translate, ⌃⌥⌘R to rewrite; both can be changed, and Settings warns you when a shortcut is already used by macOS or another app), click the small button that appears next to your selection, or right-click → Services.
 - **Translate** detects the language for you. English goes to Japanese and everything else to English by default; you can change both languages and switch the direction.
