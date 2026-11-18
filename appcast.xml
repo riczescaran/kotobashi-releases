@@ -6,27 +6,26 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.3.0</title>
-      <pubDate>Tue, 17 Nov 2026 20:31:32 +0000</pubDate>
-      <sparkle:version>2.3.0</sparkle:version>
-      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <title>Version 2.4.0</title>
+      <pubDate>Wed, 18 Nov 2026 16:13:57 +0000</pubDate>
+      <sparkle:version>2.4.0</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.3.0 (2026-11-17)
+## 2.4.0 (2026-11-18)
 
 
 ### Features
 
-* cleaner result bubble with one-click Compare
-* redesigned main window that stays open like a normal window
-* warn when a shortcut is already used by macOS or another app
+* click a word or phrase in a result to choose another wording
 
 
 ### Bug Fixes
 
-* use ⌃⌥⌘ plus a letter as the default shortcuts
+* keep the main window open when you open Settings or History, and reopen History where you left it
+* turn off change highlighting by default for new installs
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.3.0/Kotobashi-2.3.0.dmg" length="7000683" type="application/octet-stream" sparkle:edSignature="ld07qnP9NJe1mXnhCxFA04j7A/QX4i2jLCyXtOBJ9IAH56wN8aTYjF6i/EIJP9KPzASS/v6sjN0xRYT0+7VXAw=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.0/Kotobashi-2.4.0.dmg" length="7226472" type="application/octet-stream" sparkle:edSignature="yrcXR/W9tFwowPaYSpJnvIQVIOBtWezA5YQOFdKA2X2yL/z3qmlCOmXJ4M9+a3OLpGcxceTsBAqViBtO4rY4Cw=="/>
     </item>
   </channel>
 </rss>
