@@ -6,26 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.4.0</title>
-      <pubDate>Wed, 18 Nov 2026 16:13:57 +0000</pubDate>
-      <sparkle:version>2.4.0</sparkle:version>
-      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <title>Version 2.4.1</title>
+      <pubDate>Wed, 18 Nov 2026 16:54:37 +0000</pubDate>
+      <sparkle:version>2.4.1</sparkle:version>
+      <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.4.0 (2026-11-18)
+## 2.4.1 (2026-11-18)
 
 
-### Features
+### Improvements
 
-* click a word or phrase in a result to choose another wording
-
-
-### Bug Fixes
-
-* keep the main window open when you open Settings or History, and reopen History where you left it
-* turn off change highlighting by default for new installs
+* Settings → About now lists "Choose another wording"
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.0/Kotobashi-2.4.0.dmg" length="7226472" type="application/octet-stream" sparkle:edSignature="yrcXR/W9tFwowPaYSpJnvIQVIOBtWezA5YQOFdKA2X2yL/z3qmlCOmXJ4M9+a3OLpGcxceTsBAqViBtO4rY4Cw=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.1/Kotobashi-2.4.1.dmg" length="7226363" type="application/octet-stream" sparkle:edSignature="eouzz+nlvhC6az2VhT+jrxOtjYXx8DXmEAcJtfdJXlrRItP0eNC1Z0qvhpbiKiKVUkAw+dvmfaKii0UQCFJqCA=="/>
     </item>
   </channel>
 </rss>
