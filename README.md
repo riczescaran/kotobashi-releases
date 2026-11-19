@@ -8,15 +8,13 @@
 
 Kotobashi is a simple companion app for working across languages on your Mac. It translates, proofreads, and rewrites text in any app, translates whole documents and files, reads text from the screen, and follows conversations with live translated captions.
 
-<p align="center"><img src="docs/overview-hero.jpg" alt="Select text in any app, press the bubble, and get a rewrite or a Japanese to English translation with a Replace button" width="100%"></p>
-
 *About the name:* *kotoba* (言葉) means "words" and *hashi* (橋) means "bridge" in Japanese, so Kotobashi is a bridge for your words.
 
 This repository only hosts the release downloads and the in-app update feed. The source code is kept private.
 
 ## Features
 
-<p align="center"><img src="docs/result-bubbles.jpg" alt="Result bubbles: an English rewrite and a Japanese to English translation" width="100%"></p>
+<p align="center"><img src="docs/overview-hero.jpg" alt="Select text in any app, press the bubble, and get a rewrite or a Japanese to English translation with a Replace button" width="100%"></p>
 
 <p align="center"><img src="docs/feature-grid.jpg" alt="Choose another wording, translate whole files, live translated captions and choosing your AI provider" width="100%"></p>
 
