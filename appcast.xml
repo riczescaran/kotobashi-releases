@@ -6,20 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.4.1</title>
-      <pubDate>Wed, 18 Nov 2026 16:54:37 +0000</pubDate>
-      <sparkle:version>2.4.1</sparkle:version>
-      <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+      <title>Version 2.4.2</title>
+      <pubDate>Thu, 19 Nov 2026 15:26:23 +0000</pubDate>
+      <sparkle:version>2.4.2</sparkle:version>
+      <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.4.1 (2026-11-18)
+## 2.4.2 (2026-11-19)
 
 
 ### Improvements
 
-* Settings → About now lists "Choose another wording"
+* Better stability and reliability throughout the app, including a fix for a crash when translating some Markdown files
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.1/Kotobashi-2.4.1.dmg" length="7226363" type="application/octet-stream" sparkle:edSignature="eouzz+nlvhC6az2VhT+jrxOtjYXx8DXmEAcJtfdJXlrRItP0eNC1Z0qvhpbiKiKVUkAw+dvmfaKii0UQCFJqCA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.2/Kotobashi-2.4.2.dmg" length="7281459" type="application/octet-stream" sparkle:edSignature="F2n7JeZrUSnOr8XJu9QyoyQsDwEdR/2x6QnVrTvWb8lPCOS4J/JBw4fP7ykrC0QHgi1iZ7Vjef17zklT8uS2AA=="/>
     </item>
   </channel>
 </rss>
