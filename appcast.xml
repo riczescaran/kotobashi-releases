@@ -6,20 +6,27 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.4.2</title>
-      <pubDate>Thu, 19 Nov 2026 15:26:23 +0000</pubDate>
-      <sparkle:version>2.4.2</sparkle:version>
-      <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+      <title>Version 2.5.0</title>
+      <pubDate>Fri, 20 Nov 2026 20:53:39 +0000</pubDate>
+      <sparkle:version>2.5.0</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.4.2 (2026-11-19)
+## 2.5.0 (2026-11-20)
+
+
+### New Features
+
+* show how long each result took in the main window, with a setting to hide it
 
 
 ### Improvements
 
-* Better stability and reliability throughout the app, including a fix for a crash when translating some Markdown files
+* more even corners and spacing in the main window
+* the result bubble opens right away and shows a placeholder while the result loads
+* the selection bubble, main window, Translate File window and live captions stand out on any app theme or video
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.4.2/Kotobashi-2.4.2.dmg" length="7281459" type="application/octet-stream" sparkle:edSignature="F2n7JeZrUSnOr8XJu9QyoyQsDwEdR/2x6QnVrTvWb8lPCOS4J/JBw4fP7ykrC0QHgi1iZ7Vjef17zklT8uS2AA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.5.0/Kotobashi-2.5.0.dmg" length="7331676" type="application/octet-stream" sparkle:edSignature="Qv7aVWOLw3FA25LpejsqyQRKJYD76sxthPWzMDvrbaTUaXHM3VetR45+Oe2llk520KyqwfkAlUdZIK0OjaB/Bw=="/>
     </item>
   </channel>
 </rss>
