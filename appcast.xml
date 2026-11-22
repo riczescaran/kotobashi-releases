@@ -6,27 +6,20 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.5.0</title>
-      <pubDate>Fri, 20 Nov 2026 20:53:39 +0000</pubDate>
-      <sparkle:version>2.5.0</sparkle:version>
-      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <title>Version 2.6.0</title>
+      <pubDate>Sun, 22 Nov 2026 15:32:42 +0000</pubDate>
+      <sparkle:version>2.6.0</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.5.0 (2026-11-20)
+## 2.6.0 (2026-11-21)
 
 
 ### New Features
 
-* show how long each result took in the main window, with a setting to hide it
-
-
-### Improvements
-
-* more even corners and spacing in the main window
-* the result bubble opens right away and shows a placeholder while the result loads
-* the selection bubble, main window, Translate File window and live captions stand out on any app theme or video
+* translate or rewrite the text you're typing in place with one shortcut, no bubble
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.5.0/Kotobashi-2.5.0.dmg" length="7331676" type="application/octet-stream" sparkle:edSignature="Qv7aVWOLw3FA25LpejsqyQRKJYD76sxthPWzMDvrbaTUaXHM3VetR45+Oe2llk520KyqwfkAlUdZIK0OjaB/Bw=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.6.0/Kotobashi-2.6.0.dmg" length="4933515" type="application/octet-stream" sparkle:edSignature="T+Zi4EpmyaSZylBP4guwcsHhLba6RmcoEjaMd2Hgqevw+5AoGuNXF1JPT/vpDE2A+LN3wbU1/iiaX4P/FpohBg=="/>
     </item>
   </channel>
 </rss>
