@@ -51,7 +51,7 @@ New in 2.0: Kotobashi translates a whole document, not only selected text.
 3. Open Kotobashi. The first time, macOS says "Apple could not verify Kotobashi is free of malware". Click **Done**.
 4. Open System Settings → Privacy & Security, scroll down to the Kotobashi message, and click **Open Anyway**. Confirm with your password.
 
-Requires macOS 26 or later.
+Requires a Mac with Apple silicon (M1 or later) and macOS 26 or later. Intel Macs aren't supported.
 
 ## Updates
 
