@@ -16,7 +16,7 @@ This repository only hosts the release downloads and the in-app update feed. The
 
 <p align="center"><img src="docs/overview-hero.jpg" alt="Select text in any app, press the bubble, and get a rewrite or a Japanese to English translation with a Replace button" width="100%"></p>
 
-<p align="center"><img src="docs/feature-grid.jpg" alt="Choose another wording, translate whole files, live translated captions and choosing your AI provider" width="100%"></p>
+<p align="center"><img src="docs/feature-grid.jpg" alt="Choose another wording, translate whole files, live translated captions, choosing your AI provider and running a free AI model on your Mac" width="100%"></p>
 
 - **Translate and rewrite in any app.** Select text and press a shortcut (⌃⌥⌘T to translate, ⌃⌥⌘R to rewrite; both can be changed, and Settings warns you when a shortcut is already used by macOS or another app), click the small button that appears next to your selection, or right-click → Services.
 - **Translate** detects the language for you. English goes to Japanese and everything else to English by default; you can change both languages and switch the direction.
@@ -27,7 +27,7 @@ This repository only hosts the release downloads and the in-app update feed. The
 - **Instant Translate / Rewrite** (⌃⌥⌘X): press it in any text field and the text there is translated in place, with no bubble. Choose in Settings whether it translates or rewrites. A small status pill under the field shows what it is doing (no screen capture is needed), ⌘Z brings your text back, and Esc cancels.
 - **Translate from the screen** (⌃⌥⌘O): drag a box over an image, a video or a PDF, and Kotobashi reads the text on your Mac and translates it.
 - **Live translated captions** (⌃⌥⌘L) for your microphone, one app (for example a Slack huddle) or both, in a floating bar, with a transcript you can copy or save. Speech recognition and translation run on your Mac.
-- **Choose your AI:** your Claude or ChatGPT subscription (through the Claude Code or Codex command-line tools), an Anthropic, OpenAI or OpenRouter API key (OpenRouter gives you models from many providers with one key), or Apple's on-device translation and Apple Intelligence. If the chosen provider fails, Kotobashi can fall back to Apple's on-device options (on by default) and tells you why.
+- **Choose your AI:** your Claude or ChatGPT subscription (through the Claude Code or Codex command-line tools), an Anthropic, OpenAI or OpenRouter API key (OpenRouter gives you models from many providers with one key), Apple's on-device translation and Apple Intelligence, or a free *Local model* on your Mac: Kotobashi runs Gemma 4 or Qwen3 itself (downloaded once from Hugging Face) or your own GGUF file, with nothing else to install, or uses a model you already run with LM Studio, Ollama or llama-server. With the Local model, nothing you translate leaves your Mac. If your AI fails, Kotobashi uses a backup and tells you why: Apple's on-device options by default, your Local model once it's downloaded (or, with your own server, tested), or none (Settings → AI Provider → *Backup*).
 - **History** of your translations and rewrites, with search, favorites and CSV export.
 - **Settings with search:** a sidebar like System Settings, and a search field that takes you straight to any setting.
 - **Stays out of your way:** show it in the menu bar, the Dock, or both.
