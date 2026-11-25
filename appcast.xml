@@ -6,20 +6,21 @@
     <description>Kotobashi updates</description>
     <language>en</language>
     <item>
-      <title>Version 2.6.1</title>
-      <pubDate>Sun, 22 Nov 2026 18:56:58 +0000</pubDate>
-      <sparkle:version>2.6.1</sparkle:version>
-      <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+      <title>Version 2.7.0</title>
+      <pubDate>Wed, 25 Nov 2026 18:22:19 +0000</pubDate>
+      <sparkle:version>2.7.0</sparkle:version>
+      <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <description sparkle:format="markdown"><![CDATA[
-## 2.6.1 (2026-11-22)
+## 2.7.0 (2026-11-25)
 
 
-### Bug Fixes
+### New Features
 
-* Rewrite no longer comes back translated when the on-device model takes over
+* run a free AI model on your Mac with Kotobashi's built-in llama.cpp, or your own GGUF file
+* use a model you already run with LM Studio, Ollama or llama-server, and choose a backup if your AI fails
 ]]></description>
-      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.6.1/Kotobashi-2.6.1.dmg" length="4944378" type="application/octet-stream" sparkle:edSignature="rU6BrD3AAlAT4IwxkajoZpukhVMf0CkX0+t4a9vR9Db+6mHtoKRvrk8g/mW7KhiYyluIybMxEA0DBLJnovmEAA=="/>
+      <enclosure url="https://github.com/riczescaran/kotobashi-releases/releases/download/v2.7.0/Kotobashi-2.7.0.dmg" length="11658302" type="application/octet-stream" sparkle:edSignature="U+mQpalZoIwu9Q7vDTeFftZnOIaJ74hXSevY7qS1RLBvpg46f+dQo+3KVT3zLqfG8l9xleHhoTm+CJ0IVQ/lBQ=="/>
     </item>
   </channel>
 </rss>
